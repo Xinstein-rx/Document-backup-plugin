@@ -19,6 +19,7 @@ Filecoin文档备份插件
 ```
 npm install -g wpsjs
 ```
+根据package.json安装好依赖
 
 ### 项目运行命令
 
